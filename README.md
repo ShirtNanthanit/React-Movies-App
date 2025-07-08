@@ -1,6 +1,6 @@
 # React Movie App
 
-Movie app build with React js, Vite, TailwindCSS using TMDM API.
+Movie app build with React js, Vite, TailwindCSS using TMDB API.
 
 ## Features
 
@@ -30,7 +30,7 @@ cd react-movie-app
 npm install
 ```
 
-3. Create a `.env` file in the root directory and add your TMDb API key:
+3. Create a `.env` file in the root directory and add your TMDB API key:
 
 ```
 VITE_TMDB_API_KEY=your_tmdb_api_key
