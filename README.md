@@ -13,15 +13,15 @@ Movie app build with React js, Vite, TailwindCSS using TMDB API.
 - React.js
 - Tailwind CSS
 - Fetch API
-- TMDb API
+- TMDB API
 
 ## Installation
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/react-movie-app.git
-cd react-movie-app
+git clone https://github.com/ShirtNanthanit/React-Movies-App.git
+cd React-Movies-App
 ```
 
 2. Install dependencies
@@ -41,3 +41,5 @@ VITE_TMDB_API_KEY=your_tmdb_api_key
 ```bash
 npm run dev
 ```
+
+<img src="https://github.com/ShirtNanthanit/React-Movies-App/blob/main/src/assets/React-Movie-Icon.png?raw=true" alt="react movie icon" width="50" heigth="50" />
